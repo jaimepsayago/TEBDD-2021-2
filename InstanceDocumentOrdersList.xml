@@ -1,0 +1,53 @@
+<OrdersList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ 	xsi:noNamespaceSchemaLocation="C:\XML\XMLExample2">
+  <Order>
+     <OrderNumber>1001</OrderNumber>
+     <Customer>Mary Jones</Customer>
+     <OrderDate>08-Feb-2011</OrderDate>
+     <Item>
+	<ItemName>pen</ItemName>
+	<Price>15.99</Price>
+	<Quantity>1</Quantity>
+      </Item>
+       <Item> 
+	<ItemName>desk lamp</ItemName>
+	<Price>34.98</Price>
+	<Quantity>1</Quantity>
+      </Item>
+  </Order>
+<Order>
+     <OrderNumber>1002</OrderNumber>
+     <Customer>WorldWide Travel Agency</Customer>
+     <OrderDate>8-Feb-2011</OrderDate>
+     <Item>
+	<ItemName>folder</ItemName>
+	<Price>1.59</Price>
+	<Quantity>12</Quantity>
+      </Item>
+       <Item> 
+	<ItemName>printer</ItemName>
+	<Price>336.49</Price>
+	<Quantity>1</Quantity>
+      </Item>
+      <Item> 
+	<ItemName>telephone</ItemName>
+	<Price>95.00</Price>
+	<Quantity>1</Quantity>
+      </Item>
+  </Order>
+  <Order>
+     <OrderNumber>1003</OrderNumber>
+     <Customer>Mary Jones</Customer>
+     <OrderDate>10-Feb-2011</OrderDate>
+     <Item>
+	<ItemName>filing cabinet</ItemName>
+	<Price>45.00</Price>
+	<Quantity>1</Quantity>
+      </Item>
+  </Order>
+</OrdersList>
+
+
+ 
+
+
